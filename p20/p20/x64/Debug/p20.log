@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\admin\Desktop\大學\大一上\113高階程式設計\HW\HW3_1\HW3_1\p20\p20\main.c(15,5): warning C4098: 'main': 'void' 函式正在傳回值
+  p20.vcxproj -> C:\Users\admin\Desktop\大學\大一上\113高階程式設計\HW\HW3_1\HW3_1\p20\x64\Debug\p20.exe

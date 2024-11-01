@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\admin\Desktop\大學\大一上\113高階程式設計\HW\HW3_1\HW3_1\p18\p18\main.c(15,11): error C2198: 'size_t strnlen(const char *,size_t)': 呼叫的引數太少
+C:\Users\admin\Desktop\大學\大一上\113高階程式設計\HW\HW3_1\HW3_1\p18\p18\main.c(15,11): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\admin\Desktop\大學\大一上\113高階程式設計\HW\HW3_1\HW3_1\p18\p18\main.c(18,5): warning C4098: 'main': 'void' 函式正在傳回值
+C:\Users\admin\Desktop\大學\大一上\113高階程式設計\HW\HW3_1\HW3_1\p18\p18\main.c(12,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
